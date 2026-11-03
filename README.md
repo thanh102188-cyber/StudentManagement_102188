@@ -1,3 +1,3 @@
 # Student Management System - 102188
 
-Version: 1.0
+Version: 2.0 - Developer B
