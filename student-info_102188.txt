@@ -1,0 +1,4 @@
+Ma sinh vien: 102188
+Ho ten: Pham Van Cuong
+Lop: CNTT01
+Khoa: Cong nghe thong tin
